@@ -1,3 +1,5 @@
+# Challenge: Find LCM using GCD
+
 # Input from the user
 a = int(input("Enter the first number: "))  # Input first number from the user
 b = int(input("Enter the second number: ")) # Input second number from the user
