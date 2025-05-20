@@ -13,7 +13,7 @@ order = len(str(num))
 sum_of_powers = 0
 
 # Process each digit
-while n > 0:
+while num > 0:
     digit = num % 10 # Get the last digit
     sum_of_powers += digit ** order # Add the digit raised to the power of order
     num = num // 10
